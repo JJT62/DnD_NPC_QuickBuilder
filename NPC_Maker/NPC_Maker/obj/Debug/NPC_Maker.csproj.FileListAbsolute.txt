@@ -1,0 +1,6 @@
+C:\Users\joelt\Documents\GitHub\DnD_NPC_QuickBuilder\NPC_Maker\NPC_Maker\bin\Debug\NPC_Maker.exe.config
+C:\Users\joelt\Documents\GitHub\DnD_NPC_QuickBuilder\NPC_Maker\NPC_Maker\bin\Debug\NPC_Maker.exe
+C:\Users\joelt\Documents\GitHub\DnD_NPC_QuickBuilder\NPC_Maker\NPC_Maker\bin\Debug\NPC_Maker.pdb
+C:\Users\joelt\Documents\GitHub\DnD_NPC_QuickBuilder\NPC_Maker\NPC_Maker\obj\Debug\NPC_Maker.csprojAssemblyReference.cache
+C:\Users\joelt\Documents\GitHub\DnD_NPC_QuickBuilder\NPC_Maker\NPC_Maker\obj\Debug\NPC_Maker.exe
+C:\Users\joelt\Documents\GitHub\DnD_NPC_QuickBuilder\NPC_Maker\NPC_Maker\obj\Debug\NPC_Maker.pdb
